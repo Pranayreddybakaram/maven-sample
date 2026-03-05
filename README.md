@@ -80,3 +80,5 @@ coverage-open      - Open code coverage report
 print-deps-updates - Print project dependencies updates
 update-deps        - Update project dependencies to latest releases
 ```
+
+Small change on develop branch for Git assignment.
